@@ -1,0 +1,18 @@
+Category,season,season,Category_Bottom,Category_Dupatta,Category_Ethnic Dress,Category_Saree,Category_Set,Category_Top,Category_Western Dress,Category_kurta
+Blouse,1,1,False,False,False,False,False,False,False,False
+Blouse,2,2,False,False,False,False,False,False,False,False
+Bottom,1,1,True,False,False,False,False,False,False,False
+Bottom,2,2,True,False,False,False,False,False,False,False
+Dupatta,2,2,False,True,False,False,False,False,False,False
+Ethnic Dress,1,1,False,False,True,False,False,False,False,False
+Ethnic Dress,2,2,False,False,True,False,False,False,False,False
+Saree,1,1,False,False,False,True,False,False,False,False
+Saree,2,2,False,False,False,True,False,False,False,False
+Set,1,1,False,False,False,False,True,False,False,False
+Set,2,2,False,False,False,False,True,False,False,False
+Top,1,1,False,False,False,False,False,True,False,False
+Top,2,2,False,False,False,False,False,True,False,False
+Western Dress,1,1,False,False,False,False,False,False,True,False
+Western Dress,2,2,False,False,False,False,False,False,True,False
+kurta,1,1,False,False,False,False,False,False,False,True
+kurta,2,2,False,False,False,False,False,False,False,True
